@@ -49,7 +49,7 @@
     "waglpz/config": "^2.1",
     "waglpz/di-container": "^2.1",
     "waglpz/google-sso": "^2.0",
-    "waglpz/webapp": "^2.2",
+    "waglpz/webapp": "dev-develop",
     "waglpz/webapp-middleware": "^2.2",
     "waglpz/webapp-routing": "^2.1",
     "waglpz/webapp-restapi": "^2.1",
