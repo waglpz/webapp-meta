@@ -52,7 +52,7 @@
     "waglpz/webapp": "dev-develop",
     "waglpz/webapp-middleware": "^2.2",
     "waglpz/webapp-routing": "^2.1",
-    "waglpz/webapp-restapi": "^2.1",
+    "waglpz/webapp-restapi": "dev-develop",
     "waglpz/webapp-view-helpers": "^v2.0",
     "waglpz/webapp-security": "^2.1",
     "webmozart/assert": "^2.1"
